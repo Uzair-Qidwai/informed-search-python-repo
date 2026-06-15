@@ -1,6 +1,6 @@
 # Informed Search Strategies in Python
 
-A public-repo-ready collection of Python implementations for classic informed search methods.
+A collection of Python implementations for classic informed search methods.
 
 ## Included algorithms
 
@@ -86,6 +86,6 @@ python examples.py
 - ida-star
 - weighted-astar
 
-## Suggested repo description
+## Repo description
 
 Python implementations of major informed search strategies including A*, IDA*, RBFS, SMA*, Beam Search, Greedy Best-First Search, and Weighted A*.
